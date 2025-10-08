@@ -63,3 +63,4 @@ ISBN: 9781633437166; 1633437167
 1. [درک مدل‌های زبانی بزرگ](<01.Understanding large language models.md>)
 2. [کار با داده‌های متنی](<02.Working with text data.md>)
 3. [کدنویسی مکانیزم‌های توجه](<03.Coding attention mechanisms.md>)
+4. [پیاده‌سازی مدل GPT از ابتدا برای تولید متن](<04.Implementing a GPT model from scratch to generate text.md>)
