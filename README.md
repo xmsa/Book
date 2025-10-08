@@ -8,6 +8,14 @@
 
 ## کتاب‌های موجود
 
+### Build a Large Language Model (From Scratch)
+
+شروع این پروژه با ترجمه کتاب **Build a Large Language Model (From Scratch)** بوده است.  
+این کتاب یک راهنمای جامع و عملی برای ساخت مدل‌های زبانی بزرگ از صفر است.
+
+نسخه ترجمه کتاب را می‌توانید در اینجا ببینید:  
+[Build a Large Language Model (From Scratch)](<Build a Large Language Model (From Scratch)/README.md>)
+
 ## نحوه استفاده
 
 - برای مطالعه ترجمه، به پوشه مربوط به هر کتاب مراجعه کنید.
