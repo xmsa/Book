@@ -61,3 +61,4 @@ ISBN: 9781633437166; 1633437167
 
 # محتوا
 1. [درک مدل‌های زبانی بزرگ](<01.Understanding large language models.md>)
+2. [کار با داده‌های متنی](<02.Working with text data.md>)
