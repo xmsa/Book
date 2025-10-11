@@ -64,3 +64,6 @@ ISBN: 9781633437166; 1633437167
 2. [کار با داده‌های متنی](<02.Working with text data.md>)
 3. [کدنویسی مکانیزم‌های توجه](<03.Coding attention mechanisms.md>)
 4. [پیاده‌سازی مدل GPT از ابتدا برای تولید متن](<04.Implementing a GPT model from scratch to generate text.md>)
+5. [پیش‌آموزش روی داده‌های بدون برچسب](<05.Pretraining on unlabeled data.md>)
+6. [ریزتنظیم مدل زبان برای طبقه‌بندی](<06.Fine-tuning for classification.md>)
+7. [تنظیم دقیق برای پیروی از دستورالعمل‌ها](<07.Fine-tuning to follow instructions.md>)
