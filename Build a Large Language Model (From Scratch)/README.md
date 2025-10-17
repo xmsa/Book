@@ -67,3 +67,5 @@ ISBN: 9781633437166; 1633437167
 5. [پیش‌آموزش روی داده‌های بدون برچسب](<05.Pretraining on unlabeled data.md>)
 6. [ریزتنظیم مدل زبان برای طبقه‌بندی](<06.Fine-tuning for classification.md>)
 7. [تنظیم دقیق برای پیروی از دستورالعمل‌ها](<07.Fine-tuning to follow instructions.md>)
+8. [پیوست A](A.appendix.md)
+8. [پیوست B](B.appendix.md)
